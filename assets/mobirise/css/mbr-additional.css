@@ -2590,7 +2590,7 @@ body {
 .cid-r8kyKKhC4l {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-color: #ec8040;
+  background-color: #cc2952;
 }
 .cid-r8kyKKhC4l .mbr-section-text {
   color: #232323;
@@ -2649,6 +2649,9 @@ body {
 }
 .cid-r8kyKKhC4l .mbr-section-text P {
   text-align: left;
+}
+.cid-r8kyKKhC4l .mbr-section-subtitle B {
+  color: #ffffff;
 }
 .cid-r8kfkug7aL .navbar {
   background: #ffffff;
