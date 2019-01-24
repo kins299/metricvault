@@ -40,7 +40,7 @@
     "uniqCompNum": 14,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/img-20181122-103401-128x132.png",
+    "favicon": "@PROJECT_PATH@/assets/images/oie-transparent-2-128x130.png",
     "noImageResize": ""
   },
   "pages": {
